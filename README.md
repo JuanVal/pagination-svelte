@@ -1,0 +1,2 @@
+# pagination-svelte
+Paginate items.
