@@ -3,7 +3,7 @@ import { html } from "lit-html";
 
 export default {
   parameters: {
-    layout: "top",
+    layout: "centered",
   },
 };
 
